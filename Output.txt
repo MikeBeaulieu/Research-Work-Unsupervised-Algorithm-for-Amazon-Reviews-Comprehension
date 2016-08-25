@@ -1,0 +1,279 @@
+C:\Python27\python.exe C:/Users/gowtham/PycharmProjects/webscrapper/nlpbasics.py
+The acutal review
+The Nikon D3300 has some of the best low light and best picture quality of mid level DSLR cameras, in the APS-C sensor size (this is not a full size sensor, but to get a full size sensor you will need to spend about $2000 or $3000 more).
+
+Nikon D3300 is rated 30% higher in image quality compared to the Canon 70D.
+
+The Nikon D3300 has a slightly larger sensor than the Canon 70D.
+
+I was torn between Canon and Nikon. If you look at all the complaints about Canon in the last 1 or 2 years, you will see that they have been going backwards or sideways, while other companies are making huge strides. The Canon 70D is a smooth fast auto-focusing camera that is silent, however if you set it to auto mode and go take pictures they don't look as good as the Nikon D3300 on auto mode.
+
+Comparing pictures side by side with the Canon 70D, the Nikon D3300 has sharper pictures. Zooming in on the photos I took with the 70D yielded a loss of detail. At the same quality settings, same aperture, and shutter speed settings, and with the exact same scene, I am able to zoom in and get better photos from the Nikon D3300, the D3300 really captures crisp photos.
+
+The D3300 may be the only camera that doesn't have image quality problems with the 24 Megapixels. There is a megapixel war going on, although sensor sizes aren't increasing, which means the image quality isn't getting better with many cameras, because they are simply trying to cram more pixels with even less light per pixel, which doesn't help matters. However, the D3300 pulls off the impossible and gets beautiful very sharp photos every time.
+
+The D3300 does very good video, it's glassy smooth and has tremendously good low light video performance, although the focus noise of the lens will intrude on your videos, because you can hear the little motor churning away to maintain focus. You can alternately use manual focus which works just fine for video. Or you can just push the focus button momentarily to get focus and then maintain your distance, and that will allow the lens to stop hunting for focus, which means you won't hear any noise in your video. To eliminate video focus noise you will need an external mic. The auto focus isn't super fast in video mode but it does have video auto focus mode, and if you had an external mic you could do simple documentaries or YouTube clips just fine and have very clean, very smooth video.
+
+For video you could also consider a Sony HX-300 1080 60P, or the HX-400 which has 24P mode too. I've tried the HX-300 and it has nowhere near the low light performance of the Nikon D3300 but it does do really good video and has smooth, fast, silent auto focus, even at up to 50x zoom, which is ridiculous.
+
+The Nikon D3300 takes noise free pictures in any lighting conditions (I haven't tried in total darkness of course). I set it to auto on a black cloudy day, just before rain, and it takes extremely clear pictures with no noise. The same pictures in sunlight were much less sharp, on the Canon 70D. The Canon 70D may be able to match the Nikon if you manually tweak things, but the Nikon doesn't take bad pictures on Auto mode, where as, the Canon 70D on Auto mode takes very average pictures.
+
+I noticed the Canon 70D JPG pictures looked very digitized, and not natural, some were not even usable on auto mode, but the Nikon default JPG pictures look more natural. This is probably caused by better JPG compression on the Nikon? In "Raw" shooting mode I'm sure the Canon 70D has nearly equal image quality but I never did try that.
+
+Something to note, the Nikon D3300 does not have a low pass filter on the sensor like most current DSLR's, so in theory it should shoot sharper photos more easily. The purpose of the low pass filter is to slightly blur pixels to prevent artifacts, and moire. The Nikon figured out a way around this, so it can shoot sharper without a "blur" filter. Canon people don't seem to care about anything except loyalty to one brand, so good luck explaining this to them! hehe.
+
+This is a very small camera, I would say it feels about 50% smaller than a Canon 70D. It is very light. The buttons are all exceptional. The shutter is very loud as most DSLR cameras probably are. Taking pictures is as easy as turning it on and snapping photos. You'll get amazing results in almost any lighting with this camera.
+
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want. Image quality is within 1 point of the Nikon D7100. The entry level Canon DSLR mid-frame cameras cannot match the image quality of the newest Nikons.
+
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm. The stock lens works fine, but it doesn't zoom in very far. That is something to consider in your purchase because of the price of lenses. However, this camera will last you for years, and it is a good investment.
+
+Edit: The low light performance of the D3300 is supposed to be very good compared to older Nikon models. I can attest that this is true. In fact, I am shocked at how good the low light performance is. With the use of a tripod, you can turn down the shutter speed so it stays open for several seconds or longer. The picture I took in a non-lighted region of my house looked identical to a normally lit room with bright crisp exposure, and I was able to use ISO 100 setting, there was NO noise. Now this is something you simply cannot do with a point and shoot camera with a smaller sensor. So exciting!
+
+I highly recommend the Nikon D3300 because it does everything very well.
+I like the camera. It appears very well built and ergonomic. I was surprised though to see that you can only get high
+definition in RAW format. In fine definition the average picture is much lower than the 24 mp they claim.
+The lens kit is also fine for the price. I came from Canon world and transitioned into the Lumix world for digital.
+I think their lenses are better but they do not offer (at least not on mine) the capabilities of a d-SLR camera.
+Last thing and the reason for my rating is a terrible customer service. My battery run out in less than 30 days.
+Nikon would not replace it as they indicated it was not covered. They would charge $50-$60 for a replacement.
+It is not a a good experience and not acceptable from such a reputable company.
+
+Horrible. My lenses motor was faulty out of the box.
+Don't buy it is not worth wasting 500 dollars on a faulty product.
+
+
+ Sentences related to zoom 
+
+The Sentiment using TextBlob is 	
+At the same quality settings, same aperture, and shutter speed settings, and with the exact same scene, I am able to zoom in and get better photos from the Nikon D3300, the D3300 really captures crisp photos.
+Sentiment(polarity=0.2125, subjectivity=0.29583333333333334)
+The Sentiment using TextBlob is 	
+I've tried the HX-300 and it has nowhere near the low light performance of the Nikon D3300 but it does do really good video and has smooth, fast, silent auto focus, even at up to 50x zoom, which is ridiculous.
+Sentiment(polarity=0.18333333333333335, subjectivity=0.525)
+The Sentiment using TextBlob is 	
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+Sentiment(polarity=-0.05, subjectivity=0.2625)
+The Sentiment using TextBlob is 	
+The stock lens works fine, but it doesn't zoom in very far.
+Sentiment(polarity=0.2733333333333333, subjectivity=0.75)
+At the same quality settings, same aperture, and shutter speed settings, and with the exact same scene, I am able to zoom in and get better photos from the Nikon D3300, the D3300 really captures crisp photos.
+I've tried the HX-300 and it has nowhere near the low light performance of the Nikon D3300 but it does do really good video and has smooth, fast, silent auto focus, even at up to 50x zoom, which is ridiculous.
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+The stock lens works fine, but it doesn't zoom in very far.
+['At the same quality settings, same aperture, and shutter speed settings, and with the exact same scene, I am able to zoom in and get better photos from the Nikon D3300, the D3300 really captures crisp photos.']
+
+ count of positive
+1
+
+ actual positive review
+At the same quality settings, same aperture, and shutter speed settings, and with the exact same scene, I am able to zoom in and get better photos from the Nikon D3300, the D3300 really captures crisp photos.
+
+count of neg
+3
+
+ negative review
+I've tried the HX-300 and it has nowhere near the low light performance of the Nikon D3300 but it does do really good video and has smooth, fast, silent auto focus, even at up to 50x zoom, which is ridiculous.
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+The stock lens works fine, but it doesn't zoom in very far.
+
+ Sentences related to price 
+
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+Sentiment(polarity=0.4000000000000001, subjectivity=0.16666666666666666)
+That is something to consider in your purchase because of the price of lenses.
+Sentiment(polarity=0.0, subjectivity=0.0)
+The lens kit is also fine for the price.
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+That is something to consider in your purchase because of the price of lenses.
+The lens kit is also fine for the price.
+['If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.', 'That is something to consider in your purchase because of the price of lenses.', 'The lens kit is also fine for the price.']
+
+ count of positive
+3
+
+ actual positive review
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+That is something to consider in your purchase because of the price of lenses.
+The lens kit is also fine for the price.
+
+count of neg
+0
+
+ negative review
+
+ Sentences related to Shutter speed 
+
+The shutter is very loud as most DSLR cameras probably are.
+Sentiment(polarity=0.315, subjectivity=0.75)
+With the use of a tripod, you can turn down the shutter speed so it stays open for several seconds or longer.
+Sentiment(polarity=-0.051851851851851864, subjectivity=0.262962962962963)
+The shutter is very loud as most DSLR cameras probably are.
+With the use of a tripod, you can turn down the shutter speed so it stays open for several seconds or longer.
+['With the use of a tripod, you can turn down the shutter speed so it stays open for several seconds or longer.']
+
+ count of positive
+1
+
+ actual positive review
+With the use of a tripod, you can turn down the shutter speed so it stays open for several seconds or longer.
+
+count of neg
+1
+
+ negative review
+The shutter is very loud as most DSLR cameras probably are.
+
+ Sentences related to lens 
+
+The D3300 does very good video, it's glassy smooth and has tremendously good low light video performance, although the focus noise of the lens will intrude on your videos, because you can hear the little motor churning away to maintain focus.
+Sentiment(polarity=0.24607142857142852, subjectivity=0.6114285714285714)
+Or you can just push the focus button momentarily to get focus and then maintain your distance, and that will allow the lens to stop hunting for focus, which means you won't hear any noise in your video.
+Sentiment(polarity=0.0, subjectivity=0.0)
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+Sentiment(polarity=-0.05, subjectivity=0.2625)
+The stock lens works fine, but it doesn't zoom in very far.
+Sentiment(polarity=0.2733333333333333, subjectivity=0.75)
+That is something to consider in your purchase because of the price of lenses.
+Sentiment(polarity=0.0, subjectivity=0.0)
+The lens kit is also fine for the price.
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+I think their lenses are better but they do not offer (at least not on mine) the capabilities of a d-SLR camera.
+Sentiment(polarity=0.1, subjectivity=0.45)
+My lenses motor was faulty out of the box.
+Sentiment(polarity=0.0, subjectivity=0.0)
+The D3300 does very good video, it's glassy smooth and has tremendously good low light video performance, although the focus noise of the lens will intrude on your videos, because you can hear the little motor churning away to maintain focus.
+Or you can just push the focus button momentarily to get focus and then maintain your distance, and that will allow the lens to stop hunting for focus, which means you won't hear any noise in your video.
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+The stock lens works fine, but it doesn't zoom in very far.
+That is something to consider in your purchase because of the price of lenses.
+The lens kit is also fine for the price.
+I think their lenses are better but they do not offer (at least not on mine) the capabilities of a d-SLR camera.
+My lenses motor was faulty out of the box.
+["The D3300 does very good video, it's glassy smooth and has tremendously good low light video performance, although the focus noise of the lens will intrude on your videos, because you can hear the little motor churning away to maintain focus.", 'That is something to consider in your purchase because of the price of lenses.', 'The lens kit is also fine for the price.']
+
+ count of positive
+3
+
+ actual positive review
+The D3300 does very good video, it's glassy smooth and has tremendously good low light video performance, although the focus noise of the lens will intrude on your videos, because you can hear the little motor churning away to maintain focus.
+That is something to consider in your purchase because of the price of lenses.
+The lens kit is also fine for the price.
+
+count of neg
+5
+
+ negative review
+Or you can just push the focus button momentarily to get focus and then maintain your distance, and that will allow the lens to stop hunting for focus, which means you won't hear any noise in your video.
+Purchase an 18-200mm lens in the future to give you wide angle room shots, or scenic shots at 18mm, or to zoom in, at 200mm.
+The stock lens works fine, but it doesn't zoom in very far.
+I think their lenses are better but they do not offer (at least not on mine) the capabilities of a d-SLR camera.
+My lenses motor was faulty out of the box.
+
+ Sentences related to Picture quality 
+
+
+The Nikon D3300 has some of the best low light and best picture quality of mid level DSLR cameras, in the APS-C sensor size (this is not a full size sensor, but to get a full size sensor you will need to spend about $2000 or $3000 more).
+Sentiment(polarity=0.384375, subjectivity=0.4)
+The Canon 70D is a smooth fast auto-focusing camera that is silent, however if you set it to auto mode and go take pictures they don't look as good as the Nikon D3300 on auto mode.
+Sentiment(polarity=0.325, subjectivity=0.45000000000000007)
+Comparing pictures side by side with the Canon 70D, the Nikon D3300 has sharper pictures.
+Sentiment(polarity=0.0, subjectivity=0.0)
+The Nikon D3300 takes noise free pictures in any lighting conditions (I haven't tried in total darkness of course).
+Sentiment(polarity=0.2, subjectivity=0.775)
+I set it to auto on a black cloudy day, just before rain, and it takes extremely clear pictures with no noise.
+Sentiment(polarity=-0.03333333333333332, subjectivity=0.4083333333333333)
+The same pictures in sunlight were much less sharp, on the Canon 70D.
+Sentiment(polarity=-0.09722222222222221, subjectivity=0.3138888888888889)
+The Canon 70D may be able to match the Nikon if you manually tweak things, but the Nikon doesn't take bad pictures on Auto mode, where as, the Canon 70D on Auto mode takes very average pictures.
+Sentiment(polarity=-0.13166666666666663, subjectivity=0.6038888888888888)
+I noticed the Canon 70D JPG pictures looked very digitized, and not natural, some were not even usable on auto mode, but the Nikon default JPG pictures look more natural.
+Sentiment(polarity=0.1875, subjectivity=0.4)
+Taking pictures is as easy as turning it on and snapping photos.
+Sentiment(polarity=0.43333333333333335, subjectivity=0.8333333333333334)
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+Sentiment(polarity=0.4000000000000001, subjectivity=0.16666666666666666)
+The picture I took in a non-lighted region of my house looked identical to a normally lit room with bright crisp exposure, and I was able to use ISO 100 setting, there was NO noise.
+Sentiment(polarity=0.4, subjectivity=0.6229166666666666)
+In fine definition the average picture is much lower than the 24 mp they claim.
+Sentiment(polarity=0.15555555555555559, subjectivity=0.36666666666666664)
+
+The Nikon D3300 has some of the best low light and best picture quality of mid level DSLR cameras, in the APS-C sensor size (this is not a full size sensor, but to get a full size sensor you will need to spend about $2000 or $3000 more).
+The Canon 70D is a smooth fast auto-focusing camera that is silent, however if you set it to auto mode and go take pictures they don't look as good as the Nikon D3300 on auto mode.
+Comparing pictures side by side with the Canon 70D, the Nikon D3300 has sharper pictures.
+The Nikon D3300 takes noise free pictures in any lighting conditions (I haven't tried in total darkness of course).
+I set it to auto on a black cloudy day, just before rain, and it takes extremely clear pictures with no noise.
+The same pictures in sunlight were much less sharp, on the Canon 70D.
+The Canon 70D may be able to match the Nikon if you manually tweak things, but the Nikon doesn't take bad pictures on Auto mode, where as, the Canon 70D on Auto mode takes very average pictures.
+I noticed the Canon 70D JPG pictures looked very digitized, and not natural, some were not even usable on auto mode, but the Nikon default JPG pictures look more natural.
+Taking pictures is as easy as turning it on and snapping photos.
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+The picture I took in a non-lighted region of my house looked identical to a normally lit room with bright crisp exposure, and I was able to use ISO 100 setting, there was NO noise.
+In fine definition the average picture is much lower than the 24 mp they claim.
+['\nThe Nikon D3300 has some of the best low light and best picture quality of mid level DSLR cameras, in the APS-C sensor size (this is not a full size sensor, but to get a full size sensor you will need to spend about $2000 or $3000 more).', "The Canon 70D is a smooth fast auto-focusing camera that is silent, however if you set it to auto mode and go take pictures they don't look as good as the Nikon D3300 on auto mode.", "The Nikon D3300 takes noise free pictures in any lighting conditions (I haven't tried in total darkness of course).", 'If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.', 'In fine definition the average picture is much lower than the 24 mp they claim.']
+
+ count of positive
+5
+
+ actual positive review
+
+The Nikon D3300 has some of the best low light and best picture quality of mid level DSLR cameras, in the APS-C sensor size (this is not a full size sensor, but to get a full size sensor you will need to spend about $2000 or $3000 more).
+The Canon 70D is a smooth fast auto-focusing camera that is silent, however if you set it to auto mode and go take pictures they don't look as good as the Nikon D3300 on auto mode.
+The Nikon D3300 takes noise free pictures in any lighting conditions (I haven't tried in total darkness of course).
+If you want the best quality pictures, and you want to step up to a professional camera without the professional price, here is the camera you want.
+In fine definition the average picture is much lower than the 24 mp they claim.
+
+count of neg
+7
+
+ negative review
+Comparing pictures side by side with the Canon 70D, the Nikon D3300 has sharper pictures.
+I set it to auto on a black cloudy day, just before rain, and it takes extremely clear pictures with no noise.
+The same pictures in sunlight were much less sharp, on the Canon 70D.
+The Canon 70D may be able to match the Nikon if you manually tweak things, but the Nikon doesn't take bad pictures on Auto mode, where as, the Canon 70D on Auto mode takes very average pictures.
+I noticed the Canon 70D JPG pictures looked very digitized, and not natural, some were not even usable on auto mode, but the Nikon default JPG pictures look more natural.
+Taking pictures is as easy as turning it on and snapping photos.
+The picture I took in a non-lighted region of my house looked identical to a normally lit room with bright crisp exposure, and I was able to use ISO 100 setting, there was NO noise.
+
+ Sentences related to Battery\charger 
+
+My battery run out in less than 30 days.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.06666666666666667)
+They would charge $50-$60 for a replacement.
+Sentiment(polarity=0.0, subjectivity=0.0)
+My battery run out in less than 30 days.
+They would charge $50-$60 for a replacement.
+[]
+
+ count of positive
+0
+
+ actual positive review
+
+count of neg
+2
+
+ negative review
+My battery run out in less than 30 days.
+They would charge $50-$60 for a replacement.
+
+ Sentences related to Customer Service 
+
+Last thing and the reason for my rating is a terrible customer service.
+Sentiment(polarity=-0.5, subjectivity=0.5333333333333333)
+Last thing and the reason for my rating is a terrible customer service.
+[]
+
+ count of positive
+0
+
+ actual positive review
+
+count of neg
+1
+
+ negative review
+Last thing and the reason for my rating is a terrible customer service.
+
+Process finished with exit code 0
